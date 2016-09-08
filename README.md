@@ -1,3 +1,5 @@
+git clone https://taylor-edwards-nl85.squarespace.com/template.git
+
 <html>
 <header>
 <b>Pokedb.info</b> 
